@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma pagina de login moderno para acrescentar no seu projeto agregando segurança e sofisticação.
+Uma pagina de login moderno para acrescentar no seu projeto agregando segurança e sofisticação. *somente para Desktop
 
 
 ## :memo: Licença
